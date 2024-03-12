@@ -5,22 +5,22 @@ With expertise in PHP, JavaScript, SQL Server, MySQL, AWS, Docker, and proficien
 
 Let's collaborate and build something amazing together! 🚀
 
-## Lenguajes de Programación
-- PHP
-- JavaScript
+## Programming Languages
+- ![PHP](https://img.icons8.com/offices/30/000000/php-logo.png)
+- ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png)
 
-## Base de Datos
-- SQL Server
-- MySQL
+## Database
+- ![SQL Server](https://img.icons8.com/color/30/000000/sql.png)
+- ![MySQL](https://img.icons8.com/ios-filled/30/000000/mysql-logo.png)
 
-## Stack de DevOps
-- AWS ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-- Docker ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+## DevOps Stack
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+- ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 
-## Stack de Gestión de Proyectos
-- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
-- GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-- Jira ![Jira](https://img.icons8.com/color/48/000000/jira.png)
+## Project Management Stack
+- ![Git](https://img.icons8.com/color/48/000000/git.png)
+- ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+- ![Jira](https://img.icons8.com/color/48/000000/jira.png)
 
 ## Editor / IDE
-- VsCode ![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
+- ![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
