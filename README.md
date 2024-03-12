@@ -1,16 +1,26 @@
-### Hi there 👋
+Hello there! 👋
+I'm SeTo, a passionate Full Stack Developer ready to conquer the digital realm! 💻
 
-<!--
-**S3T0/S3T0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With expertise in PHP, JavaScript, SQL Server, MySQL, AWS, Docker, and proficiency in tools like Git, GitHub, and Jira, I thrive on turning innovative ideas into powerful, user-centric solutions.
 
-Here are some ideas to get you started:
+Let's collaborate and build something amazing together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes de Programación
+- PHP
+- JavaScript
+
+## Base de Datos
+- SQL Server
+- MySQL
+
+## Stack de DevOps
+- AWS ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+- Docker ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+
+## Stack de Gestión de Proyectos
+- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+- Jira ![Jira](https://img.icons8.com/color/48/000000/jira.png)
+
+## Editor / IDE
+- VsCode ![VSCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
